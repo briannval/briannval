@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Brian and I'm a developer, from Indonesia.</p>
+<p align="left">My name is Brian and I'm a developer from Jakarta, Indonesia, currently located in Vancouver, Canada.</p>
 
 ###
 
