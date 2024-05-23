@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning React and DevOps<br>🎯 Goals: Building projects to benefit community..</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning React and Flutter<br>🎯 Goals: Building projects to benefit community..</p>
 
 ###
 
