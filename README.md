@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Brian and I'm a developer from Jakarta, Indonesia, currently located in Vancouver, Canada.</p>
+<p align="left">My name is Brian and I'm a developer in Vancouver, Canada.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning C++<br>🎯 Goals: Building projects to benefit community..</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Linux and C++<br>🎯 Goals: Building projects to benefit community..</p>
 
 ###
 
