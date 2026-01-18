@@ -10,7 +10,20 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Linux and C++<br>🎯 Goals: Building projects to benefit community..</p>
+<p align="left">✨ Creating bugs since 2020<br>
+📚 I'm currently learning Linux and C++<br>
+🎯 Goals: Building projects to benefit the community..</p>
+
+###
+
+<h2 align="left">Experience</h2>
+
+###
+
+- 💻 Embedded Software Engineer Intern @ AMD  
+- 💻 Software Developer Intern @ SAP  
+- 👨‍🏫 CS Teaching Assistant @ UBC  
+- 💻 Software Engineer Intern @ SMS Perkasa
 
 ###
 
@@ -36,5 +49,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
 </div>
-
-###
