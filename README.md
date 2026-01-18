@@ -10,9 +10,9 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>
-📚 I'm currently learning Linux and C++<br>
-🎯 Goals: Building projects to benefit the community..</p>
+- ✨ Creating bugs since 2020
+- 📚 I'm currently learning Linux and C++
+- 🎯 Goals: Building projects to benefit the community..
 
 ###
 
