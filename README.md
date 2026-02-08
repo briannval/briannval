@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Brian and I'm a developer in Vancouver, Canada.</p>
+<p align="left">My name is Brian and I'm a developer in Vancouver, Canada. Read more about me <a href="https://www.briannval.com">here</a>!</p>
 
 ###
 
