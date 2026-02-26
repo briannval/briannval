@@ -20,8 +20,8 @@
 
 ###
 
-- 💻 Embedded Software Engineer Intern @ AMD  
-- 💻 Software Developer Intern @ SAP  
+- 💻 Software Engineer Intern @ AMD  
+- 💻 Software Engineer Intern @ SAP  
 - 👨‍🏫 CS Teaching Assistant @ UBC  
 - 💻 Software Engineer Intern @ SMS Perkasa
 
